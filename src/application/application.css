@@ -1,0 +1,23 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+.custom-button {
+    -fx-background-color: #000000;
+    -fx-text-fill: #FFFFFF;
+    -fx-font-family: 'Century Gothic';
+    -fx-font-size: 16;
+    -fx-background-radius: 22;
+    -fx-border-radius: 20;
+    -fx-border-color: #333333;
+    -fx-border-width: 3;
+}
+
+.scroll-pane-background {
+    -fx-background-color: #2b2b2b;
+    -fx-border-color: #555555; 
+    -fx-border-width: 2px; 
+    -fx-padding: 10px;
+}
+
+.root {
+    /* Gradient background from #1e90ff at the top to #FcBFFf at the bottom */
+    -fx-background-color: linear-gradient(from 0% 20% to 0% 100%, #1e90ff, #FFBFFf);
+}     
