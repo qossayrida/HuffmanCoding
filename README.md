@@ -7,21 +7,21 @@ Key steps include reading a file to count byte frequencies, constructing the Huf
 ## How to use
 Upon launching the application, you will be greeted with the Welcome Screen. Here you can choose to 
 <p align="center">
-  <img width="720" height="405" src="https://github.com/QossayRidi/longestIncreasingSubsequence/assets/59481839/f54c335d-f2c3-4263-80b8-d5033f17d7a0">
+  <img width="720" height="405" src="https://github.com/qossayrida/huffmanCoding/assets/59481839/951a644c-b3e1-4b22-98b7-7add4a6d41a6">
 </p>
 
 - **Compress**
 
-    Selecting Upload data from text file will open a file dialog where you can choose a text file from your computer that contains the data in this format 
+    The screen displays the before and after file sizes along with the compression ratio. It also offers options to copy the file path, access the compressed file, and view the algorithm's details.
 <p align="center">
-  <img width="414" height="162" src="https://github.com/QossayRidi/longestIncreasingSubsequence/assets/59481839/96d3485f-b86b-4f3c-b11e-ed33e96b332e">
+  <img width="620" height="330" src="https://github.com/qossayrida/huffmanCoding/assets/59481839/f5a011c3-61a4-4234-83ae-cf47f46ad8cf">
 </p>
 
 - **Uncompress** 
 
-    You'll be prompted to input the number of power sources and then assign an LED to each power source.
+    This screen shows the original and resulting file sizes post-decompression, ensuring file integrity with the uncompression ratio, and provides similar access and detail viewing options as the compression screen.
 <p align="center">
-  <img width="550" height="400" src="https://github.com/QossayRidi/longestIncreasingSubsequence/assets/59481839/62158b9f-de75-4198-a05e-08ffaf87e586">
+  <img width="620" height="330" src="https://github.com/qossayrida/huffmanCoding/assets/59481839/0926da55-ed20-4031-91e4-87500a17ef2d">
 </p>
 
 
