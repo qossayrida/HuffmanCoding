@@ -1,4 +1,4 @@
-# huffmanCoding
+# Huffman Coding
 
 The project is centered around implementing Huffman Coding, a lossless data compression algorithm. The process involves assigning variable-length codes to input characters based on their frequencies to ensure a prefix-free and unambiguous code system. The implementation will utilize a priority queue and a binary tree to create a file compression and uncompression system.
 
